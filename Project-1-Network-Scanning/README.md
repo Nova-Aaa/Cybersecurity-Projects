@@ -30,3 +30,15 @@ To perform network scanning using Nmap to discover live hosts, open ports, and r
 
 ## Conclusion
 Network scanning helps in identifying devices and potential vulnerabilities in a network.
+
+## Screenshots
+
+![Scan Result](scan1.jpg)
+![Scan Result](scan2.jpg)
+![Scan Result](scan3.jpg)
+![Scan Result](scan4.jpg)
+![Scan Result](scan5.jpg)
+![Scan Result](scan6.jpg)
+![Scan Result](scan7.jpg)
+![Scan Result](scan8.jpg)
+![Scan Result](scan9.jpg)
