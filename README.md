@@ -4,7 +4,7 @@ This repository contains my hands-on cybersecurity projects using Kali Linux.
 
 ## Projects
 
-- Project 1: Network Scanning & Information Gathering
+- [Project 1: Network Scanning & Information Gathering](Project-1-Network-Scanning)
 - Project 2: Vulnerability Assessment (Nessus) 
 - Project 3: Password Cracking (John the Ripper)
 
