@@ -27,5 +27,13 @@ To understand how weak passwords can be cracked using hash cracking techniques.
 - Understood importance of strong passwords
 - Learned correct hash format usage
 
+## Screenshots
+![screenshots](screenshot1.jpg)
+![screenshots](screenshot2.jpg)
+![screenshots](screenshot3.jpg)
+![screenshots](screenshot4.jpg)
+![screenshots](screenshot5.jpg)
+![screenshots](screenshot6.jpg)
+
 ## Conclusion
 Weak passwords can be easily cracked using tools like John the Ripper, highlighting the need for strong password policies.
